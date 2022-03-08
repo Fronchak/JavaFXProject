@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox prefHeight="359.0" prefWidth="385.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17">
+   <children>
+      <Label alignment="TOP_LEFT" prefHeight="0.0" prefWidth="353.0" text="About ths Project" textFill="#1c0ccf">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="10.0" top="10.0" />
+         </padding>
+      </Label>
+      <Label alignment="TOP_LEFT" text="Basic Project using JavaFX and MySQL" textFill="#07189e">
+         <padding>
+            <Insets bottom="10.0" left="10.0" />
+         </padding>
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</VBox>
